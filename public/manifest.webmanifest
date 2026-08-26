@@ -1,0 +1,17 @@
+{
+  "name": "ZeroBarrier — Voice Job Search",
+  "short_name": "ZeroBarrier",
+  "description": "Voice-first employment search for Tamil Nadu workers. On-device AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

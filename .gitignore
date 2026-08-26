@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vercel
+
+# Python optional voice backend
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+backend/.venv/
+# Model binaries are downloaded by scripts (never commit)
+backend/models/
+
+# Secrets
+.env
+.env.*
